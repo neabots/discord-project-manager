@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "tsnd --transpile-only --resapwn --ignore-watch node_modules src/index.ts"
+    "start": "tsnd --transpile-only --respawn --ignore-watch node_modules src/index.ts"
   },
   "repository": "git+https://github.com/neabots/discord-project-manager.git",
   "keywords": [],
