@@ -1,0 +1,27 @@
+{
+  "name": "discord-project-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsnd --transpile-only --resapwn --ignore-watch node_modules src/index.ts"
+  },
+  "repository": "git+https://github.com/neabots/discord-project-manager.git",
+  "keywords": [],
+  "author": "Fagner Sales <fs.fagnersales@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neabots/discord-project-manager/issues"
+  },
+  "homepage": "https://github.com/neabots/discord-project-manager#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.25",
+    "@typescript-eslint/eslint-plugin": "^4.15.0",
+    "@typescript-eslint/parser": "^4.15.0",
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1",
+    "typescript": "^4.1.3"
+  }
+}
